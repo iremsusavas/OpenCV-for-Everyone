@@ -2,7 +2,7 @@
 1. Loading Displaying and Saving images / Grayscaling images / Different Color Spaces
 2. Resize and Scale Images / Image Pyramids / Cropping Images / Image Filtering Using Convolution Operations / Blurring  Sharpenning
 3. Arithmetic Operations / Thresholding Binarization & Adaptive Thresholding / Morphological Operators / Canny Edge Detection
-4. Moments, Sorting, Matching Contours / Line, Circle and Blob Detection / Count Circles, Elipses 
+4. Contours , ConvexHull, Line, Circle and Blob Detection
 5. Template Matching / Find Corners
 6. Face and Eye Detection using Haar Cascade Classifiers
 7. Vehicle and Pedestrian Detection
