@@ -6,22 +6,23 @@
 5. Template Matching / Find Corners
 6. Face and Eye Detection using Haar Cascade Classifiers
 7. Vehicle and Pedestrian Detection using Haar Cascade Classifiers
-8. Perspective Transforms / Histograms and K-means clustering
-9. Compare Image MSE and Structural Similarity / Filtering Colors
-10. Watershed Algorithm marker based image segmentation
-11. Background and Foreground Subtraction
-12. Motion Tracking with Mean Shift and Camshift
-13. Object Tracking with Optical Flow
-14. Object Tracking by color
-15. Facial Landmark Detection with Dlib
-16. Face Swapping with Dlib
-17. Titl Shift Effects
-18. GrabCut algorithm for Background Removal
-19. Barcode and QR generation and Reading
-20. YOLOv3
-21. Neural Style Transfer 
-22. SSDs
-23. Inpainting to Restore Damaged Photos
-24. Add and Remove Noise, fix contrast with Histogram Equalization
-25. Detect Blur in Images
-26. Facial Recognition
+8. Perspective Transforms
+9.Histograms and K-means clustering
+10. Compare Image MSE and Structural Similarity / Filtering Colors
+11. Watershed Algorithm marker based image segmentation
+12. Background and Foreground Subtraction
+13. Motion Tracking with Mean Shift and Camshift
+14. Object Tracking with Optical Flow
+15. Object Tracking by color
+16. Facial Landmark Detection with Dlib
+17. Face Swapping with Dlib
+18. Titl Shift Effects
+19. GrabCut algorithm for Background Removal
+20. Barcode and QR generation and Reading
+21. YOLOv3
+22. Neural Style Transfer 
+23. SSDs
+24. Inpainting to Restore Damaged Photos
+25. Add and Remove Noise, fix contrast with Histogram Equalization
+26. Detect Blur in Images
+27. Facial Recognition
