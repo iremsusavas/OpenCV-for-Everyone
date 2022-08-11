@@ -5,7 +5,7 @@
 4. Contours , ConvexHull, Line, Circle and Blob Detection
 5. Template Matching / Find Corners
 6. Face and Eye Detection using Haar Cascade Classifiers
-7. Vehicle and Pedestrian Detection
+7. Vehicle and Pedestrian Detection using Haar Cascade Classifiers
 8. Perspective Transforms / Histograms and K-means clustering
 9. Compare Image MSE and Structural Similarity / Filtering Colors
 10. Watershed Algorithm marker based image segmentation
