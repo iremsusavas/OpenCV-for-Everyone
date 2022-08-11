@@ -6,7 +6,7 @@
 6. Face and Eye Detection using Haar Cascade Classifiers
 7. Vehicle and Pedestrian Detection using Haar Cascade Classifiers
 8. Perspective Transforms
-9.Histograms and K-means clustering
+9. Histograms and K-means clustering
 10. Compare Image MSE and Structural Similarity / Filtering Colors
 11. Watershed Algorithm marker based image segmentation
 12. Background and Foreground Subtraction
@@ -24,4 +24,4 @@
 24. Inpainting to Restore Damaged Photos
 25. Add and Remove Noise, fix contrast with Histogram Equalization
 26. Detect Blur in Images
-Facial Recognition
+27. Facial Recognition
