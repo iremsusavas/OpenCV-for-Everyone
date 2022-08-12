@@ -8,7 +8,7 @@
 8. Perspective Transforms
 9. Histograms , Histogram Equalization and Color Seperation of an Image using K-means Clustering
 10. Filtering Colors
-11. Watershed Algorithm marker based image segmentation
+11. Image segmentation Methods
 12. Background and Foreground Subtraction
 13. Motion Tracking with Mean Shift and Camshift
 14. Object Tracking with Optical Flow
