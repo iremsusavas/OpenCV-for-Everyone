@@ -11,7 +11,7 @@ This repository is created in order to help anyone who has a passion to learn co
 9. Histograms , Histogram Equalization and Color Seperation of an Image using K-means Clustering
 10. Filtering Colors
 11. Image segmentation Methods
-12. Background and Foreground Subtraction
+12. Background Subtraction
 13. Motion Tracking with Mean Shift and Camshift
 14. Object Tracking with Optical Flow
 15. Object Tracking by color
