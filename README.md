@@ -12,18 +12,17 @@ This repository is created in order to help anyone who has a passion to learn co
 10. Filtering Colors
 11. Image segmentation Methods
 12. Background Subtraction
-13. Motion Tracking with Mean Shift and Camshift
-14. Object Tracking with Optical Flow
-15. Object Tracking by color
-16. Facial Landmark Detection with Dlib
-17. Face Swapping with Dlib
-18. Titl Shift Effects
-19. GrabCut algorithm for Background Removal
-20. Barcode and QR generation and Reading
-21. YOLOv3
-22. Neural Style Transfer 
-23. SSDs
-24. Inpainting to Restore Damaged Photos
-25. Add and Remove Noise, fix contrast with Histogram Equalization
-26. Detect Blur in Images
-27. Facial Recognition
+13. Object Tracking with Optical Flow
+14. Object Tracking by color
+15. Facial Landmark Detection with Dlib
+16. Face Swapping with Dlib
+17. Titl Shift Effects
+18. GrabCut algorithm for Background Removal
+19. Barcode and QR generation and Reading
+20. YOLOv3
+21. Neural Style Transfer 
+22. SSDs
+23. Inpainting to Restore Damaged Photos
+24. Add and Remove Noise, fix contrast with Histogram Equalization
+25. Detect Blur in Images
+26. Facial Recognition
