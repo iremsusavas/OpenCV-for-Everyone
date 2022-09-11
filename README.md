@@ -12,15 +12,14 @@ This repository is created in order to help anyone who has a passion to learn co
 10. Filtering Colors
 11. Image segmentation Methods
 12. Background Subtraction
-13. Facial Landmark Detection with Dlib
-14. Face Swapping with Dlib
-16. Titl Shift Effects
-17. GrabCut algorithm for Background Removal
-18. Barcode and QR generation and Reading
-19. YOLOv3
-20. Neural Style Transfer 
-21. SSDs
-22. Inpainting to Restore Damaged Photos
-23. Add and Remove Noise, fix contrast with Histogram Equalization
-24. Detect Blur in Images
-25. Facial Recognition
+13. Facial Landmark Detection and Face Swapping with Dlib
+14. Titl Shift Effects
+15. GrabCut algorithm for Background Removal
+16. Barcode and QR generation and Reading
+17. YOLOv3
+18. Neural Style Transfer 
+19. SSDs
+20. Inpainting to Restore Damaged Photos
+21. Add and Remove Noise, fix contrast with Histogram Equalization
+22. Detect Blur in Images
+23. Facial Recognition
